@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: solid black 2px;
+}
+
+header {
+    border: solid black 2px;
+}
+
+.about {
+    border: solid black 1px;
+}
+
+.skills {
+    border:  solid black 1px;
+}
+
+.contact {
+    border: solid black 1px;
+}
+
+footer {
+    border: solid black 2px;
+}
